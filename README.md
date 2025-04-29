@@ -1,0 +1,5 @@
+"name": "suksemaju",
+  "website": "https://github.com/suksemaju",
+  "description": "DAO of individial stakes",
+  "logo":"https://raw.githubusercontent.com/suksemaju/suksemaju/refs/heads/main/mainet",
+  "twitter": "https://twitter.com"
